@@ -1,4 +1,5 @@
-# Task: Pluralsight login page clone
+# Task: Pluralsight login page clone 
+## No frameworks (keyboard accessibility included)
 
 Copy and paste the svg from the box below to add to your html if your are having problems downloading the faq.svg file:
 
