@@ -1,0 +1,14 @@
+{
+"files": [
+"README.md"
+],
+"imageSize": 100,
+"commit": false,
+"contributors": [],
+"contributorsPerLine": 5,
+"projectName": "gallery",
+"projectOwner": "gads-projects",
+"repoType": "github",
+"repoHost": "https://github.com",
+"skipCi": true
+}
