@@ -1,8 +1,11 @@
 # Task: Pluralsight login page clone 
 ## No frameworks (keyboard accessibility included)
 
+## Watch video
+[![Group 7](https://user-images.githubusercontent.com/45185388/131238428-14e3e556-fca9-49c4-a5f3-cc4b53ad4fe8.png)](https://drive.google.com/file/d/1Q14C70zPz-OXZ0CfStpKo9yd4eXJl1bv/view?usp=sharing)
+
 ## Task instructions
-* Clone pluralsight login page - https://app.pluralsight.com/id
+* Clone pluralsight login page - https://app.pluralsight.com/id (see video above)
 * Use html and pure css (not bootstrap or any other library or framework)
 * Download the images in this folder for use (copy and paste the svg codes above if you are having problems downloading the svg files)
 * Make sure the input fields, links and buttons are accessible via keyboard (i.e. focus should appear around input fields, links and buttons when you navigate the page using tab key on your computer keyboard)
